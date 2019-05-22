@@ -1,3 +1,14 @@
+# Modified firebase_admob
+
+This plugin for flutter is the MODIFIED PLUGIN THAT IS AVAILABLE AT: https://github.com/flutter/plugins/tree/master/packages/firebase_admob
+
+This plugin is for my personal use and will be removed soon once the missing APIs are added by the Google Flutter Team. This plugin contains implementation for some of the missing APIs including but not limited to the following: 
+
+Setting Custom data for SSV (Server-Side Verification).
+
+
+
+
 # firebase_admob
 
 A plugin for [Flutter](https://flutter.io) that supports loading and
